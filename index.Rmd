@@ -3,10 +3,11 @@ title: ""
 ---
 
 ::: columns
+
 ::: {.column width="50%" style="text-align: center;"}
 
 ```{r, echo=FALSE, fig.align='center', out.width='80%'}
-knitr::include_graphics("/Users/samridhipurohit/Downloads/Data555/Website/images/Samridhi_Headshot.jpeg")
+knitr::include_graphics("images/Samridhi_Headshot.jpeg")
 ```
 
 ## Samridhi Purohit
@@ -15,6 +16,10 @@ knitr::include_graphics("/Users/samridhipurohit/Downloads/Data555/Website/images
 
 ::: {.column width="50%" style="text-align: left;"}
 
-Hi, welcome to my Website. Add a [link](https://google.com) so we can see behavior later. 
+Hi, welcome to my website. I am an MPH candidate in Global Health at Emory University’s Rollins School of Public Health, with interests in global health, health equity, humanitarian emergencies, and applied public health data science.
+
+My work focuses on using data, communication, and public health programming to better understand health needs and support more effective decision-making.
+
+:::
 
 :::
