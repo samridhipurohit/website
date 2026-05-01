@@ -11,25 +11,25 @@ title: ""
 <p class="eyebrow">About Me</p>
 
 <p class="lead-text">
-I am an MPH candidate in Global Health at Emory University’s Rollins School of Public Health, with additional training in complex humanitarian emergencies and data science. My background in dental surgery, public health, leadership, and applied data analysis shapes how I approach health challenges.
+I am an MPH candidate in Global Health at Emory University’s Rollins School of Public Health, with certificate training in complex humanitarian emergencies and data science. My background in dental surgery, public health, student leadership, and applied data analysis shapes how I approach health challenges: through prevention, communication, equity, and practical implementation.
 </p>
 
 <p>
-I am especially interested in diabetes, cardiovascular disease, noncommunicable disease prevention, maternal and child health, and the use of data to support clearer public health decision-making.
+My interests include diabetes, cardiovascular disease, noncommunicable disease prevention, maternal and child health, public health data visualization, and monitoring and evaluation. I am especially interested in using data and clear communication to make public health information more accessible, actionable, and useful for communities and decision-makers.
 </p>
 
 </div>
 
 <div class="quick-facts">
 
-<h3>Focus Areas</h3>
+<h3>Selected Strengths</h3>
 
 <ul>
-<li>Global health and health equity</li>
-<li>Diabetes, CVD, and NCD prevention</li>
-<li>Maternal and child health</li>
-<li>Public health data visualization</li>
-<li>Program planning and evaluation</li>
+<li>Clinical background in dental surgery</li>
+<li>Public health data analysis using R, SAS, SQL, and GIS</li>
+<li>Experience with dashboards, reporting, and data visualization</li>
+<li>Monitoring and evaluation for maternal and postnatal health programs</li>
+<li>Leadership, teaching support, and interprofessional collaboration</li>
 </ul>
 
 </div>
@@ -40,11 +40,11 @@ I am especially interested in diabetes, cardiovascular disease, noncommunicable 
 
 <div class="about-section-card">
 <p>
-Before beginning my MPH, I trained in dental surgery, which gave me a close view of patient care, clinical communication, and the importance of prevention. At Rollins, I have expanded that foundation into broader public health work, including global health systems, epidemiologic thinking, health equity, program planning, and data-driven decision-making.
+Before beginning my MPH, I trained and practiced in dentistry, where I developed a strong foundation in patient care, clinical communication, prevention, and community-based health outreach. That clinical background continues to influence how I think about public health: not only as data and policy, but also as communication, trust, access, and implementation.
 </p>
 
 <p>
-My graduate work has helped me think about how public health data can be used to identify risk patterns, communicate health information clearly, and support practical action across communities and health systems.
+At Rollins, I have expanded that foundation into global health, epidemiologic thinking, health equity, program planning, and applied public health data science. My work has included data visualization, dashboard development, public health reporting, program evaluation, and field-based learning in maternal and postnatal health.
 </p>
 </div>
 
@@ -55,34 +55,47 @@ My graduate work has helped me think about how public health data can be used to
 <div class="about-card">
 <h3>Diabetes and NCD Prevention</h3>
 <p>
-I am interested in how prevention, health behavior, and health systems can reduce the burden of diabetes and other noncommunicable diseases. I care about translating risk information into practical public health action.
+I am interested in how prevention, health behavior, and health systems can reduce the burden of diabetes and other noncommunicable diseases. My data work has explored how demographic, behavioral, and health-related factors shape diabetes risk patterns.
 </p>
 </div>
 
 <div class="about-card">
 <h3>CVD and Chronic Disease Equity</h3>
 <p>
-I am interested in cardiovascular disease and chronic disease disparities, especially how social conditions, access barriers, and population-level risk factors shape health outcomes.
+I care about cardiovascular disease prevention and chronic disease disparities, especially how social conditions, access barriers, and population-level risk factors influence health outcomes across communities.
 </p>
 </div>
 
 <div class="about-card">
 <h3>Maternal and Child Health</h3>
 <p>
-I am interested in maternal support systems, breastfeeding counseling, early infant care practices, and monitoring tools that can strengthen care for mothers, infants, and families.
+Through my global field experience, I worked on postnatal education, breastfeeding counseling quality, and maternal support systems. I am interested in tools that strengthen early care practices for mothers, infants, and families.
 </p>
 </div>
 
 </div>
-## Leadership and Applied Experience
+
+## Applied Public Health Experience
 
 <div class="about-section-card">
 <p>
-Beyond coursework, I have been involved in leadership, teaching support, and student-facing roles at Emory. These experiences have helped me build skills in communication, coordination, project management, and collaborative problem-solving.
+My applied work has included designing a monitoring and evaluation framework for postnatal counseling, analyzing ward-level maternal and infant health data, supporting interprofessional patient recruitment through Atlanta Interprofessional Student Hotspotting, and participating in field-based public health outreach through Emory’s Student Outbreak Response Team.
 </p>
 
 <p>
-I enjoy work that turns complex information into something clear and usable, whether through a dashboard, program plan, student initiative, or applied public health project.
+These experiences have strengthened my interest in public health work that connects data, people, and systems. I enjoy turning complex information into practical outputs, whether through dashboards, evaluation tools, student initiatives, reports, or community-facing public health communication.
+</p>
+</div>
+
+## Leadership and Collaboration
+
+<div class="about-section-card">
+<p>
+Beyond coursework, I have served in student leadership, teaching support, and student-facing roles at Emory. These experiences have helped me build skills in coordination, project management, plain-language communication, workflow improvement, and collaborative problem-solving.
+</p>
+
+<p>
+I am drawn to work that bridges technical analysis and real-world implementation, especially in settings where public health evidence needs to be communicated clearly and used for action.
 </p>
 </div>
 
