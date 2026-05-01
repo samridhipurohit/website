@@ -1,0 +1,9 @@
+name: "Samridhi Purohit's Website"
+navbar:
+  title: "Samridhi Purohit's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: docs
