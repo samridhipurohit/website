@@ -2,24 +2,74 @@
 title: ""
 ---
 
-::: columns
+<div class="home-hero">
 
-::: {.column width="50%" style="text-align: center;"}
+<div class="hero-grid">
 
-```{r, echo=FALSE, fig.align='center', out.width='80%'}
+<div class="profile-card">
+
+<div class="profile-frame">
+
+```{r, echo=FALSE, fig.align='center', out.width='100%'}
 knitr::include_graphics("images/Samridhi_Headshot.jpeg")
 ```
 
-## Samridhi Purohit
+</div>
 
-:::
+<h2>Samridhi Purohit</h2>
 
-::: {.column width="50%" style="text-align: left;"}
+<p class="profile-subtitle">
+<strong>MPH Candidate, Global Health</strong><br>
+Rollins School of Public Health<br>
+Emory University
+</p>
 
-Hi, welcome to my website. I am an MPH candidate in Global Health at Emory University’s Rollins School of Public Health, with interests in global health, health equity, humanitarian emergencies, and applied public health data science.
+</div>
 
-My work focuses on using data, communication, and public health programming to better understand health needs and support more effective decision-making.
+<div class="hero-content">
 
-:::
+<p class="eyebrow">Public Health Portfolio</p>
 
-:::
+<p>
+Welcome to my professional portfolio. This website brings together selected graduate projects, public health data work, and professional materials from my MPH training at Emory University.
+</p>
+
+<p>
+My work emphasizes clear communication, practical analysis, and evidence-informed approaches to public health challenges.
+</p>
+
+<p>
+Use this site to explore my projects, learn more about my background, or view my curriculum vitae.
+</p>
+
+<div class="hero-buttons">
+<a href="projects.html" class="button-link">View My Projects</a>
+<a href="about.html" class="button-link secondary-button">Learn More About Me</a>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## What You’ll Find Here
+
+<div class="card-container">
+
+<div class="info-card">
+<h3>Graduate Projects</h3>
+<p>Selected work from my public health and data science coursework, including dashboards and reproducible analyses.</p>
+</div>
+
+<div class="info-card">
+<h3>Public Health Interests</h3>
+<p>A closer look at the health areas and professional questions that shape my academic and applied work.</p>
+</div>
+
+<div class="info-card">
+<h3>Professional Materials</h3>
+<p>Links to my curriculum vitae, GitHub profile, and examples of work that reflect my training and skills.</p>
+</div>
+
+</div>
