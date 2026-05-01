@@ -1,9 +1,26 @@
 name: "Samridhi Purohit's Website"
 navbar:
-  title: "Samridhi Purohit's Website"
+  title: "Samridhi Purohit"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects
+    href: projects.html
+    icon: fa-computer
+  - text: Curriculum Vitae
+    href: files/CV.pdf
+    icon: fa-paperclip
+  right:
+  - href: https://github.com/samridhipurohit
+    icon: fa-github
 output_dir: docs
+output:
+  html_document:
+    theme: cosmo
+    css: style.css
+    includes: 
+      in_header: header.html

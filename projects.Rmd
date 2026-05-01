@@ -1,0 +1,32 @@
+---
+title: "Samridhi's Projects"
+---
+<div class="row">
+
+<div class="col-sm-6">
+<a href="https://samridhipurohit.github.io/diabetes-risk-dashboard/" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Diabetes Risk Dashboard</h3>
+</div>
+<div class="panel-body">
+<p>This interactive flexdashboard was created for DATA 555 using the CDC BRFSS 2015 health indicators dataset. It explores patterns in diabetes risk across demographic, behavioral, and health-related factors using interactive visualizations designed for a general public health audience.</p>
+</div>
+</div>
+</a>
+</div>
+
+<div class="col-sm-6">
+<a href="https://github.com/samridhipurohit/breast_cancer_wisconsin_diagnostic" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Breast Cancer Wisconsin Diagnostic Project</h3>
+</div>
+<div class="panel-body">
+<p>This project uses the Breast Cancer Wisconsin Diagnostic dataset to compare tumor characteristics associated with benign and malignant diagnoses. The analysis summarizes key cell nucleus measurements from digitized fine-needle aspirate images and presents results through a reproducible R Markdown report.</p>
+</div>
+</div>
+</a>
+</div>
+
+</div>
