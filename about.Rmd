@@ -79,7 +79,7 @@ Through my global field experience, I worked on postnatal education, breastfeedi
 
 <div class="about-section-card">
 <p>
-My applied work has included designing a monitoring and evaluation framework for postnatal counseling, analyzing ward-level maternal and infant health data, supporting interprofessional patient recruitment through Atlanta Interprofessional Student Hotspotting, and participating in field-based public health outreach through Emory’s Student Outbreak Response Team.
+My applied work has included designing a monitoring and evaluation framework for postnatal counseling, analyzing ward-level maternal and infant health data, supporting interprofessional patient recruitment through Atlanta Interprofessional Student Hotspotting and participating in field-based public health outreach through Emory’s Student Outbreak Response Team.
 </p>
 
 <p>
@@ -91,7 +91,7 @@ These experiences have strengthened my interest in public health work that conne
 
 <div class="about-section-card">
 <p>
-Beyond coursework, I have served in student leadership, teaching support, and student-facing roles at Emory. These experiences have helped me build skills in coordination, project management, plain-language communication, workflow improvement, and collaborative problem-solving.
+Beyond coursework, I have served in student leadership, teaching support and student-facing roles at Emory. These experiences have helped me build skills in coordination, project management, science communication, workflow improvement and collaborative problem-solving.
 </p>
 
 <p>
